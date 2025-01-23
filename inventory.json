@@ -1,0 +1,22 @@
+[
+    {"id": "P001", "name": "Premium Glass Bong", "quantity": 15, "price": 80, "type": "accessory", "description": "A medium-sized, high-quality glass bong with a sleek design and green accents, perfect for smooth and stylish sessions."},
+    {"id": "P002", "name": "Classic Wooden Pipe", "quantity": 12, "price": 65, "type": "accessory", "description": "A handcrafted wooden pipe with a natural finish, ideal for those who appreciate timeless smoking experiences."},
+    {"id": "P003", "name": "Deluxe Rolling Kit", "quantity": 10, "price": 90, "type": "kit", "description": "A comprehensive rolling kit that includes premium rolling papers, filters, and a sturdy metal grinder, perfect for on-the-go enthusiasts."},
+    {"id": "P004", "name": "Colorful Glass Chillum", "quantity": 8, "price": 70, "type": "accessory", "description": "A vibrant, compact glass chillum in various colors, great for quick and convenient sessions."},
+    {"id": "P005", "name": "Premium Vape Pen", "quantity": 10, "price": 95, "type": "device", "description": "A sleek and portable vape pen with adjustable settings, perfect for both beginners and experienced users."},
+    {"id": "P006", "name": "Herbal Storage Jar", "quantity": 6, "price": 35, "type": "storage", "description": "An airtight glass jar with a stylish black lid, designed to keep herbs fresh and aromatic."},
+    {"id": "P007", "name": "Grinder and Stash Combo", "quantity": 14, "price": 75, "type": "kit", "description": "A high-quality metal grinder paired with a discreet stash container, perfect for home or travel use."},
+    {"id": "P008", "name": "Ceramic Ashtray Set", "quantity": 18, "price": 60, "type": "accessory", "description": "A set of durable ceramic ashtrays with elegant designs, ideal for home or outdoor use."},
+    {"id": "P009", "name": "Glass Dab Rig", "quantity": 10, "price": 120, "type": "device", "description": "A premium glass dab rig with intricate designs and a quartz banger, perfect for concentrate enthusiasts."},
+    {"id": "P010", "name": "Silicone Pipe with Cover", "quantity": 12, "price": 45, "type": "accessory", "description": "A durable and portable silicone pipe with a spill-proof cover, great for outdoor adventures."},
+    {"id": "P011", "name": "Metal Rolling Tray", "quantity": 25, "price": 20, "type": "accessory", "description": "A stylish metal rolling tray with vibrant artwork, perfect for organizing your essentials."},
+    {"id": "P012", "name": "Smell-Proof Backpack", "quantity": 20, "price": 75, "type": "storage", "description": "A discreet and odor-proof backpack with multiple compartments, designed for ultimate portability and security."},
+    {"id": "P013", "name": "Electronic Herb Grinder", "quantity": 15, "price": 60, "type": "device", "description": "An electric herb grinder that ensures a consistent grind every time, ideal for effortless preparation."},
+    {"id": "P014", "name": "Artisan Hookah Set", "quantity": 8, "price": 95, "type": "device", "description": "A large, beautifully crafted hookah set with colorful glass and metal accents, perfect for group sessions."},
+    {"id": "P015", "name": "Premium Butane Torch", "quantity": 6, "price": 50, "type": "accessory", "description": "A refillable butane torch with adjustable flame, ideal for lighting up your rig or crafting needs."},
+    {"id": "P016", "name": "Natural Hemp Rolling Papers", "quantity": 10, "price": 5, "type": "consumable", "description": "Eco-friendly hemp rolling papers for a smooth and clean smoking experience."},
+    {"id": "P017", "name": "Decorative Glass Jar", "quantity": 12, "price": 30, "type": "storage", "description": "A decorative glass jar with a cork lid, perfect for storing herbs or small accessories."},
+    {"id": "P018", "name": "Double-Chamber Bong", "quantity": 7, "price": 110, "type": "device", "description": "A premium glass bong with a double chamber for enhanced filtration and smoother hits."},
+    {"id": "P019", "name": "Herbal Infusion Kit", "quantity": 10, "price": 75, "type": "kit", "description": "A DIY herbal infusion kit that includes everything you need to create your own blends."},
+    {"id": "P020", "name": "UV Reactive Glass Pipe", "quantity": 8, "price": 60, "type": "accessory", "description": "A hand-blown glass pipe that glows under UV light, adding a unique touch to your collection."}
+]
