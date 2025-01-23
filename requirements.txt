@@ -4,4 +4,4 @@ langchain-core
 langchain-openai
 langgraph
 chromadb
-sqlite3
+pysqlite3
