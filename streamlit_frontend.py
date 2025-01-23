@@ -36,9 +36,7 @@ with main_col:
         this_message = st.session_state.message_history[-i]
         if isinstance(this_message, AIMessage):
             message_box = st.chat_message('assistant')
-        else:
-            message_box = st.chat_message('user')
-        message_box.markdown(this_message.content)
+            message_box.markdown(this_message.content)
 # 3. State variables
 
 with right_col:
